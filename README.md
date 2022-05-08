@@ -6,9 +6,7 @@ se genero un script en python que cree una secuencia de fibonacci iniciando con 
 
 ![Preview](logo.png)
 
-este modelo te ayuda a construir dapps de Ethereum más rápido, inicia este proyecto, ¡COmparte el Conocimiento!
-
-# 🚀 Quick Start
+# 🚀 inicio
 
 📄 Clonar o forkear `Ruedata Script`:
 ```sh
