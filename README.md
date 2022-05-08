@@ -6,7 +6,7 @@ se genero un script en python que cree una secuencia de fibonacci iniciando con 
 
 ![Preview](logo.png)
 
-# 🚀 inicio
+# inicio
 
 📄 Clonar o forkear `Ruedata Script`:
 ```sh
