@@ -15,6 +15,8 @@ git clone https://github.com/vilvasquez/Ruedata.git
 
 🚴‍♂️ corre el script:
 ```sh
+pip install pyfiglet
+
 python ruedata.py
 ```
 # ⭐️ `Dejame una Estrella`
